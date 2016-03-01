@@ -1,8 +1,8 @@
 # DISMATH_Project0.0_CedricPaulSazon
 # HelloWorldApp
-# Designer Page
+Designer Page
 ![Screenshot](apppic1.jpg)
-# Blocks page
+Blocks page
 ![Screenshot](apppic2.jpg)
-# Emulator Test
+Emulator Test
 ![Screenshot](apppic3.jpg)
